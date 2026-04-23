@@ -3,7 +3,7 @@ using Documenter
 using SpineDataBase
 
 makedocs(
-    sitename = "SpineDataBase Documentation",
+    sitename = "SpineDataBase.jl",
     format = Documenter.HTML(),
     modules = [SpineDataBase],
     pages = [
