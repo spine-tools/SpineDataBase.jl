@@ -1,0 +1,18 @@
+name = "SpineDataBase"
+uuid = "375276d1-302e-41c6-878e-3f7b548bab0b"
+version = "0.1.0"
+authors = ["nnhjy <43530784+nnhjy@users.noreply.github.com>"]
+
+[deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
+SQLite = "0aa819cd-b072-5ff4-a722-6bc24af294d9"
+
+[compat]
+DataFrames = "1.8.2"
+Dates = "1.11.0"
+Documenter = "1.17.0"
+JSON = "1.5.0"
+SQLite = "1.8.0"
